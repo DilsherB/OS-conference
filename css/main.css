@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700');
 
 body {
-    font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -31,7 +31,6 @@ a {
   opacity: 0.7;
   border: 0.5px solid white;
 }
-
 
 .cardHeight {
   height: 300px;
