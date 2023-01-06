@@ -26,7 +26,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <img src="![My Logo](images/Farhan.jpeg)" alt="logo" width="140"  height="auto" />
+  <img src="![My Logo](/images/logo.svg)" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Portfolio (Dilsher Balouch)</b></h3>
@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-- **About Me**
+- **About**
 > Here you can read about me.
 - **Contact Me**
 > You can contact me through contact form on my poftfolio's end.

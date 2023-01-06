@@ -1,6 +1,6 @@
-let changeIcon = function(icon) {
+const changeIcon = function (icon) {
   icon.classList.toggle('fa-times');
-}
+};
 
 const navLinks = document.querySelectorAll('.nav-item');
 const menuToggle = document.getElementById('collapsibleNavbar');
@@ -54,8 +54,8 @@ const featuredSpeakers = [{
 },
 ];
 
-const conferenceSpeakers = document.getElementById('speakers')
-featuredSpeakers.forEach((speaker)=>{
+const conferenceSpeakers = document.getElementById('speakers');
+featuredSpeakers.forEach((speaker) => {
   const speakers = document.createElement('guests');
   speakers.innerHTML = `
 <div class="col-md-6 my-5">
@@ -72,5 +72,5 @@ featuredSpeakers.forEach((speaker)=>{
   </div>
 </div>
 `;
-conferenceSpeakers.appendChild(speakers);
+  conferenceSpeakers.appendChild(speakers);
 });
