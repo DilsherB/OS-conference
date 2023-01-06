@@ -1,0 +1,48 @@
+
+/* lines of the toggler */
+.toggler-icon {
+    width: 30px;
+    height: 2px;
+    background-color: #e31919;
+    display: block;
+    transition: all 0.2s;
+  }
+  
+  .middle {
+    margin: 7px auto;
+  }
+  
+  .navbar-toggler .top {
+    margin: 6px 0 6px 6px;
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
+  }
+  
+  .navbar-toggler .middle {
+    margin: 6px 0 6px 6px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+  
+  .navbar-toggler .bottom {
+    margin: 6px 0 6px 6px;
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+  }
+  
+  /* when navbar collapsed */
+  
+  .navbar-toggler.collapsed .top {
+    transform: rotate(0);
+  }
+  
+  .navbar-toggler.collapsed .middle {
+    opacity: 1;
+    filter: alpha(opacity=100);
+  }
+  
+  .navbar-toggler.collapsed .bottom {
+    margin-bottom: 5px;
+    transform: rotate(0);
+  }
+  

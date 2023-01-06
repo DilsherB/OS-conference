@@ -22,38 +22,38 @@
     </section>
 
     <section class="bg-white px-5 py-2 shadow">
-        <nav class="container navbar navbar-expand-sm navbar-light bg-light">
+        <nav class="container navbar navbar-expand-lg navbar-light bg-white">
             <div class="container">
                 <div>
-                    <a href="index.html">
+                    <a href="index.html" class="navbar-brand">
                         <img src="/images/logo.svg" alt="brand logo" width="250px">
                     </a>
                 </div>
-                <button class="navbar-toggler" type="button" id="menu" data-bs-toggle="collapse" 
-                    data-bs-target="#collapsibleNavbar">
-                    <span class="navbar-toggler-icon"></span>
+                <button class="navbar-toggler collapsed" type="button" id="menu" data-bs-toggle="collapse" 
+                    data-bs-target="#collapsibleNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="toggler-ico"><i class="fa fa-bars fa-lg text-danger" onclick="changeIcon(this)"></i></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
-                    <ul class="navbar-nav nav-height gap-4">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav-height gap-4">
                         <li class="nav-item">
-                            <a class="nav-link dropdown-item text-center" id="nav-link" 
+                            <a class="nav-link text-center" id="nav-link" 
                                 href="about.html">About
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link dropdown-item text-center" href="#">Program</a>
+                            <a class="nav-link text-center" href="#">Program</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link dropdown-item text-center" href="#">Join</a>
+                            <a class="nav-link text-center" href="#">Join</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link dropdown-item text-center" href="#">Sponsor</a>
+                            <a class="nav-link text-center" href="#">Sponsor</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link dropdown-item text-center" href="#">News</a>
+                            <a class="nav-link text-center" href="#">News</a>
                         </li>
                         <li class="nav-item hl">
-                            <a class="nav-link dropdown-item text-center red" href="#">CC Campaign</a>
+                            <a class="nav-link text-center red" href="#">CC Campaign</a>
                         </li>
                     </ul>
                 </div>
