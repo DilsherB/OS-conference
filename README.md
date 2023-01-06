@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
   <img src="![My Logo](/images/logo.svg)" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio (Dilsher Balouch)</b></h3>
+  <h3><b>Capstone Project</b></h3>
 
 </div>
 
@@ -85,11 +85,9 @@ After you're finished please remove all the comments and instructions!
 
 
 - **About**
-> Here you can read about me.
-- **Contact Me**
-> You can contact me through contact form on my poftfolio's end.
-- **My Projects**
-> You can see what I havd done so far.
+> Here you can see the way I work in web-development.
+- **HOme**
+> Home page contians the basic landing information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 > click to see live demo.
 
-- [Live Demo Link](https://dilsherb.github.io/Portfolio/)
+- [Live Demo Link](https://dilsherb.github.io/OS-conference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +124,7 @@ Clone this repository to your desired folder:
 ### to initialize your folder as git folder
 > git init
 ### to clone the project
-> git clone https://github.com/DilsherB/DS-Portfolio.git
+> git clone https://github.com/DilsherB/OS-conference.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,27 +132,13 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Anthony Martin
-> Alice Gathoni Mirigo
-> Alwyn Androvelle
-> Tobby
-> Sohail
+> Dilsher Balouch
 
 👤 **Dilsher Balouch**
 
 - GitHub: [@DilhserB](https://github.com/DilsherB)
 - Twitter: [@_brilliantMindz](https://twitter.com/_brilliantMindz)
 - LinkedIn: [brilliantMindz](https://linkedin.com/in/brilliantMindz)
-
-👤 **Alice Gathoni Mirigo**
-
-- GitHub: [@alicemirigo92](https://github.com/alicemirigo92)
-
-👤 **Anthony Martin**
-
-- GitHub: [@anthonymr](https://github.com/anthonymr)
-- Twitter: [@anthonymr](https://twitter.com/anthonymr)
-- LinkedIn: [anthonymr](https://linkedin.com/in/anthonymr)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,8 +149,8 @@ Clone this repository to your desired folder:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **Responsive Design**
-- [ ] **PopUp Modal**
-- [ ] **Dynamic Data in Modals & Projects**
+- [ ] **menu toggle**
+- [ ] **Dynamic Data in Projects**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,7 +160,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DilsherB).
+Feel free to check the [issues page](https://dilsherb.github.io/OS-conference/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,9 +168,7 @@ Feel free to check the [issues page](https://github.com/DilsherB).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project please support by visiting and sharing my website <a href="https://dilsherb.github.io/Portfolio/">Visit my Portfolio</a>
+> If you like this project please support by visiting and sharing my website <a href="https://dilsherb.github.io/OS-conference/">Visit my Portfolio</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,9 +176,7 @@ If you like this project please support by visiting and sharing my website <a hr
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank to thank the collaborators(Anthony, Alice, Alwyn, Sohail) and specially to Microverse
+> Special thanks to  Cindy Shin the author of the original design. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
