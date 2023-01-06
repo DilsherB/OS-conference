@@ -1,6 +1,6 @@
-const changeIcon = function (icon) {
+function changeIcon(icon) {
   icon.classList.toggle('fa-times');
-};
+}
 
 const navLinks = document.querySelectorAll('.nav-item');
 const menuToggle = document.getElementById('collapsibleNavbar');
