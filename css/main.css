@@ -8,16 +8,12 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-a {
-  text-decoration: none;
-}
-
 .bw {
   border: 4px solid white;
 }
 
 .blackTexture {
-  background-image: url('images/blackTexture1.svg');
+  background-image: url('/images/blackTexture1.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
