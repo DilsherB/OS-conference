@@ -12,21 +12,12 @@ a {
   text-decoration: none;
 }
 
-.hl {
-  border: 5px solid red;
-  padding: 0 15px;
-}
-
-.red {
-  color: red !important;
-}
-
 .bw {
   border: 4px solid white;
 }
 
 .blackTexture {
-  background-image: url('/images/blackTexture1.svg');
+  background-image: url('images/blackTexture1.svg');
   background-repeat: no-repeat;
   background-size: cover;
 }
