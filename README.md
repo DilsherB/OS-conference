@@ -158,9 +158,11 @@ Clone this repository to your desired folder:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+> Special thanks to the disign contributor <b>"Cindy Shin"</b>.
 
-Feel free to check the [issues page](https://dilsherb.github.io/OS-conference/).
+> Contributions, issues, and feature requests are welcome!
+
+> Feel free to check the [issues page](https://dilsherb.github.io/OS-conference/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
