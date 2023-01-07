@@ -61,7 +61,7 @@ featuredSpeakers.forEach((speaker) => {
   speakers.innerHTML = `
 <div class="col-md-6 my-5">
   <div class="row">
-      <img src="/images/${speaker.img}" class="col-md-6 rounded-circle" alt="${speaker.name} as a speaker." height="200px">
+      <img src="images/${speaker.img}" class="col-md-6 rounded-circle" alt="${speaker.name} as a speaker." height="200px">
       <div class="card bg-light col-md-6">
           <div class="card-body">
               <h5 class="card-title text-dark fw-bold">${speaker.name}</h5>
