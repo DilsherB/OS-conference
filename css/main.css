@@ -12,12 +12,6 @@ body {
   border: 4px solid white;
 }
 
-/* .blackTexture {
-  background-image: url('/images/blackTexture1.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-
 .card {
   opacity: 0.7;
   border: 0.5px solid white;
@@ -29,6 +23,11 @@ body {
 
 .ls {
   letter-spacing: 3px;
+}
+
+#speakers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 @media only screen and (max-width: 768px) {
@@ -44,5 +43,11 @@ body {
 
   .nav-height {
     height: 100vh;
+  }
+
+  #speakers {
+    display: flex;
+    flex-direction: column;
+    margin: auto 50px;
   }
 }

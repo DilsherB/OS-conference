@@ -59,7 +59,7 @@ const conferenceSpeakers = document.getElementById('speakers');
 featuredSpeakers.forEach((speaker) => {
   const speakers = document.createElement('guests');
   speakers.innerHTML = `
-<div class="col-md-6 my-5">
+<div class="my-5">
   <div class="row">
       <img src="images/${speaker.img}" class="col-md-6 rounded-circle" alt="${speaker.name} as a speaker." height="200px">
       <div class="card bg-light col-md-6">
