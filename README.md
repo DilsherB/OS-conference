@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [OS-conference ] <a name="about-project"></a>
 
 > It is my first capstone project to showcase my skills in the field of development.
 
